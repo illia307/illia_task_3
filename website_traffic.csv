@@ -1,0 +1,26 @@
+Дата,Джерело,Пристрій,Користувачі,Сеанси,Показник_відмов_%,Тривалість_сеансу_сек
+2023-11-01,Organic Search,Desktop,150,165,45.5,140
+2023-11-01,Organic Search,Mobile,220,230,55.0,95
+2023-11-01,Direct,Desktop,80,95,40.0,180
+2023-11-01,Direct,Mobile,110,120,50.2,110
+2023-11-01,Social Media,Mobile,300,310,75.0,45
+2023-11-02,Organic Search,Desktop,160,175,44.0,150
+2023-11-02,Organic Search,Mobile,240,250,53.5,100
+2023-11-02,Direct,Desktop,85,100,38.5,190
+2023-11-02,Direct,Mobile,115,125,48.0,115
+2023-11-02,Social Media,Mobile,320,335,72.0,50
+2023-11-03,Organic Search,Desktop,145,155,46.0,135
+2023-11-03,Organic Search,Mobile,210,220,56.5,90
+2023-11-03,Direct,Desktop,75,85,41.0,170
+2023-11-03,Direct,Mobile,105,115,51.0,105
+2023-11-03,Social Media,Mobile,280,290,78.0,40
+2023-11-04,Organic Search,Desktop,180,195,43.0,160
+2023-11-04,Organic Search,Mobile,260,275,52.0,105
+2023-11-04,Direct,Desktop,95,110,37.0,200
+2023-11-04,Direct,Mobile,130,140,47.5,125
+2023-11-04,Social Media,Mobile,350,370,70.0,55
+2023-11-05,Organic Search,Desktop,170,185,44.5,155
+2023-11-05,Organic Search,Mobile,250,265,54.0,98
+2023-11-05,Direct,Desktop,90,105,39.0,185
+2023-11-05,Direct,Mobile,120,135,49.0,120
+2023-11-05,Social Media,Mobile,330,350,71.0,52
